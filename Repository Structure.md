@@ -48,6 +48,12 @@ automation-tests/
 - Requires maintenance as applications evolve.
 - Not suitable for exploratory or UI-intensive testing.
 
+## **Refactor or adapt an existing test framework**
+### **I have created a utility that:**
+- Takes HTML code as input.
+- Analyzes errors in the structure (unclosed tags, duplicate IDs).
+- Corrects the found errors.
+- Outputs the corrected code with highlighting of changes
 ---
 
 This repository provides a structured approach to automated testing, making it easy to run and maintain tests. 🚀
